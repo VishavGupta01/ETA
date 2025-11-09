@@ -1,0 +1,10 @@
+{
+    "features": {
+        "Weather_conditions": 0.0,
+        "Road_traffic_density": 0.0,
+        "Vehicle_condition": 0.0,
+        "multiple_deliveries": 0.0,
+        "Festival": 0.0,
+        "City": 0.0
+    }
+}

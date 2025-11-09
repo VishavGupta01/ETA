@@ -1,9 +1,6 @@
 /.env
 /Readme.txt
 /backend/DataCommunicationIdea.txt
-/backend/route.json
-/backend/coords.json
-/backend/features.json
 **/.ipynb_checkpoints/
 **/__pycache__/
 *.pyc
